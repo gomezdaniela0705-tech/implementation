@@ -28,10 +28,6 @@ void arraylist_clear(ArrayList *list);//Se borra todos los elemtos de la lista
 void arraylist_ensure_capacity(ArrayList *list, int min_capacity);//Pide memoria si esta llen
 void arratlist_trim_to_size(ArrayList *list);//Ajusta el tamaño dinamico al usuariompor los elementos
 ArrayList* arraylist_clone(Array *list);//Nos sirve para copiar una lista a otra
-
-
-#endif
-
 )
 
 
